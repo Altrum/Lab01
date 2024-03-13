@@ -1,0 +1,27 @@
+PREFIX TO POSTFIX CONVERSION
+-----------------------------
+
+
+Your prefix expression "-/*+ABC*DE-+FGHI
+ is invalid: The total number of operators should be one less than the number of operands: -/*+ABC*DE-+FGHI
+
+
+
+Your prefix expression "+*A-B/CD^E^F*GH/IK
+ is invalid: The total number of operators should be one less than the number of operands: +*A-B/CD^E^F*GH/IK
+
+
+
+Your prefix expression "+*^AB-C/DE*FG+HI
+ is invalid: The total number of operators should be one less than the number of operands: +*^AB-C/DE*FG+HI
+
+
+
+Your prefix expression "*-A/BC*^DEF^GH
+ is invalid: The total number of operators should be one less than the number of operands: *-A/BC*^DEF^GH
+
+
+
+Your prefix expression "+*-A/BCD*E/FGHI is invalid: The total number of operators should be one less than the number of operands: +*-A/BCD*E/FGHI
+
+

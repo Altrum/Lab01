@@ -1,0 +1,5 @@
+-/*+ABC*DE-+FGHI
++*A-B/CD^E^F*GH/IK
++*^AB-C/DE*FG+HI
+*-A/BC*^DEF^GH
++*-A/BCD*E/FGHI

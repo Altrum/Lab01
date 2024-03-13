@@ -1,0 +1,15 @@
+PREFIX TO INFIX AND POSTFIX CONVERSION
+-----------------------------
+
+
+Your prefix expression "A B + C *
+ is invalid: This expression is a Postfix Expression
+
+
+Your prefix expression "X Y - Z /
+ is invalid: This expression is a Postfix Expression
+
+
+Your prefix expression "M N * O P + - is invalid: This expression is a Postfix Expression
+
+

@@ -1,0 +1,36 @@
+PREFIX TO INFIX AND POSTFIX CONVERSION
+-----------------------------
+
+This is the Original Prefix : + A B
+ This is the converted Infix Expression: (A+B)
+This is the converted Postfix Expression: AB+
+
+
+This is the Original Prefix : * + C D E
+ This is the converted Infix Expression: ((C+D)*E)
+This is the converted Postfix Expression: CD+E*
+
+
+This is the Original Prefix : / G * H I
+ This is the converted Infix Expression: (G/(H*I))
+This is the converted Postfix Expression: GHI*/
+
+
+This is the Original Prefix : ^ J K
+ This is the converted Infix Expression: (J^K)
+This is the converted Postfix Expression: JK^
+
+
+
+
+Your prefix expression "L M +
+ is invalid: This expression is a Postfix Expression
+
+
+
+This is the Original Prefix : * N O
+ This is the converted Infix Expression: (N*O)
+This is the converted Postfix Expression: NO*
+
+
+

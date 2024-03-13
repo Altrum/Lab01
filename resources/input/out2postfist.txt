@@ -1,0 +1,43 @@
+PREFIX TO POSTFIX CONVERSION
+-----------------------------
+
+
+Your prefix expression "A + B * C
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A - B) / C + D
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A * B) + (C - D)
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A + B) * (C - D) / E
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A / B) + (C * D) - E
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A + B) * (C - D) + (E * F)
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "((A * B) + (C * D)) / (E - F)
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "A + (B * (C - D)) / E
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "(A * B) + (C * (D - E)) - F
+ is invalid: This is an incorrect Prefix Expression
+
+
+Your prefix expression "((A + B) * C) - (D * (E + F)) is invalid: This is an incorrect Prefix Expression
+
+

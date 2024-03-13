@@ -1,0 +1,19 @@
+PREFIX TO INFIX AND POSTFIX CONVERSION
+-----------------------------
+
+
+This is the Original Prefix : *3-5+43
+ This is the converted Infix Expression: (3*(5-(4+3)))
+This is the converted Postfix Expression: 3543+-*
+
+
+
+This is the Original Prefix : +++2345
+ This is the converted Infix Expression: (((2+3)+4)+5)
+This is the converted Postfix Expression: 23+4+5+
+
+
+This is the Original Prefix : +2+3+45 This is the converted Infix Expression: (2+(3+(4+5)))
+This is the converted Postfix Expression: 2345+++
+
+

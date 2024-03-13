@@ -1,0 +1,19 @@
+PREFIX TO POSTFIX CONVERSION
+-----------------------------
+
+This is the Original Prefix : + a b
+ This is the converted Postfix Expression: ab+
+This is the Original Prefix : * + a b c
+ This is the converted Postfix Expression: ab+c*
+This is the Original Prefix : * a + b c
+ This is the converted Postfix Expression: abc+*
+
+Your prefix expression "++ABC++DE
+ is invalid: This is an incorrect Prefix Expression
+
+This is the Original Prefix : + / a b / c d
+ This is the converted Postfix Expression: ab/cd/+
+This is the Original Prefix : * + a b + c d
+ This is the converted Postfix Expression: ab+cd+*
+This is the Original Prefix : - * + a b c d This is the converted Postfix Expression: ab+c*d-
+

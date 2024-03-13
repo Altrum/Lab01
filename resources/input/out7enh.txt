@@ -1,0 +1,21 @@
+PREFIX TO INFIX AND POSTFIX CONVERSION
+-----------------------------
+
+This is the Original Prefix : / Y + Z - A B 
+ This is the converted Infix Expression: (Y/(Z+(A-B)))
+This is the converted Postfix Expression: YZAB-+/
+
+
+Your prefix expression "+ C * D - E / F 
+ is invalid: The total number of operators should be one less than the number of operands: + C * D - E / F 
+
+
+
+Your prefix expression "- G / H + I * J
+ is invalid: The total number of operators should be one less than the number of operands: - G / H + I * J
+
+
+
+Your prefix expression "/ + A C D - E G is invalid: The total number of operators should be one less than the number of operands: / + A C D - E G
+
+

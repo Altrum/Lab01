@@ -1,0 +1,51 @@
+PREFIX TO INFIX AND POSTFIX CONVERSION
+-----------------------------
+
+This is the Original Prefix : -+ABC
+ This is the converted Infix Expression: ((A+B)-C)
+This is the converted Postfix Expression: AB+C-
+
+This is the Original Prefix : - A+BC
+ This is the converted Infix Expression: (A-(B+C))
+This is the converted Postfix Expression: ABC+-
+
+This is the Original Prefix : $+-ABC+D-EF
+ This is the converted Infix Expression: (((A-B)+C)$(D+(E-F)))
+This is the converted Postfix Expression: AB-C+DEF-+$
+
+This is the Original Prefix : -*A$B+C-DE*EF
+ This is the converted Infix Expression: ((A*(B$(C+(D-E))))-(E*F))
+This is the converted Postfix Expression: ABCDE-+$*EF*-
+
+This is the Original Prefix : **A+BC+C-BA
+ This is the converted Infix Expression: ((A*(B+C))*(C+(B-A)))
+This is the converted Postfix Expression: ABC+*CBA-+*
+
+
+Your prefix expression "/A+BC +C*BA
+ is invalid: The total number of operators should be one less than the number of operands: /A+BC +C*BA
+
+
+
+Your prefix expression "*-*-ABC+BA
+ is invalid: The total number of operators should be one less than the number of operands: *-*-ABC+BA
+
+
+
+Your prefix expression "/+/A-BC-BA
+ is invalid: The total number of operators should be one less than the number of operands: /+/A-BC-BA
+
+
+This is the Original Prefix : *$A+BC+C-BA
+ This is the converted Infix Expression: ((A$(B+C))*(C+(B-A)))
+This is the converted Postfix Expression: ABC+$CBA-+*
+
+This is the Original Prefix : //A+B0-C+BA
+ This is the converted Infix Expression: ((A/(B+0))/(C-(B+A)))
+This is the converted Postfix Expression: AB0+/CBA+-/
+
+This is the Original Prefix : *$A^BC+C-BA
+ This is the converted Infix Expression: ((A$(B^C))*(C+(B-A)))
+This is the converted Postfix Expression: ABC^$CBA-+*
+
+

@@ -1,0 +1,53 @@
+PREFIX TO POSTFIX CONVERSION
+-----------------------------
+
+This is the Original Prefix : +AB
+ This is the converted Postfix Expression: AB+
+This is the Original Prefix : + A B 
+ This is the converted Postfix Expression: AB+
+This is the Original Prefix : - C D 
+ This is the converted Postfix Expression: CD-
+This is the Original Prefix : * E F 
+ This is the converted Postfix Expression: EF*
+This is the Original Prefix : / G H 
+ This is the converted Postfix Expression: GH/
+
+Your prefix expression "+ - I 
+ is invalid: The total number of operators should be one less than the number of operands: + - I 
+
+
+This is the Original Prefix : - M N 
+ This is the converted Postfix Expression: MN-
+This is the Original Prefix : * O P 
+ This is the converted Postfix Expression: OP*
+This is the Original Prefix : / Q R 
+ This is the converted Postfix Expression: QR/
+This is the Original Prefix : + - S T U 
+ This is the converted Postfix Expression: ST-U+
+This is the Original Prefix : * V + W X 
+ This is the converted Postfix Expression: VWX+*
+This is the Original Prefix : / - Y Z A 
+ This is the converted Postfix Expression: YZ-A/
+This is the Original Prefix : + B * C D 
+ This is the converted Postfix Expression: BCD*+
+This is the Original Prefix : - E / F G 
+ This is the converted Postfix Expression: EFG/-
+This is the Original Prefix : * H + I / J K
+ This is the converted Postfix Expression: HIJK/+*
+This is the Original Prefix : + - L / M N O 
+ This is the converted Postfix Expression: LMN/-O+
+
+This is the Original Prefix : + A * B C 
+ This is the converted Postfix Expression: ABC*+
+This is the Original Prefix : - D / E F 
+ This is the converted Postfix Expression: DEF/-
+This is the Original Prefix : * G + H I 
+ This is the converted Postfix Expression: GHI+*
+This is the Original Prefix : / J - K L 
+ This is the converted Postfix Expression: JKL-/
+This is the Original Prefix : + M * N / O P
+ This is the converted Postfix Expression: MNOP/*+
+This is the Original Prefix : - Q + R * S T 
+ This is the converted Postfix Expression: QRST*+-
+This is the Original Prefix : * U - V / W X This is the converted Postfix Expression: UVWX/-*
+
